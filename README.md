@@ -30,7 +30,7 @@ It allows editor to visually check the differences between two pages. The compar
 
 Add management of your robots.txt file straight from the CMS
 
-#### MenuPin [[nuget](https://nuget.episerver.com/en/OtherPages/Package/?packageId=MenuPin), [source](https://github.com/davidknipe/MenuPin)]
+#### MenuPin [[nuget](https://nuget.episerver.com/en/OtherPages/Package/?packageId=MenuPin), [source](https://github.com/davidknipe/MenuPin)] (for version 10 and lower)
 
 Add the ability to pin the menu bar in the episerver admin
 
